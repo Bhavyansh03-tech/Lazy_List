@@ -14,6 +14,8 @@ In this repository, I have implemented:
 - LazyRow: Implementation of a horizontally scrolling list with lazy loading.
 - LazyGrid: Implementation of a grid layout that loads items lazily to improve performance.
 
+## Screenshots
+
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/Bhavyansh03-tech/Lazy_List/assets/96388594/054180dd-ade6-4af1-bae5-d673310d774f" alt="Lazy Row" style="width: 200px; height: auto; margin-right: 10px;">
     <img src="https://github.com/Bhavyansh03-tech/Lazy_List/assets/96388594/f567feb0-b9a7-4c9f-af75-dfe3a86cd1b9" alt="Lazy Column" style="width: 200px; height: auto;">
