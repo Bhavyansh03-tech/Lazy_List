@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-06-16 at 22 41 48_ad9fa7b3](https://github.com/Bhavyansh03-tech/Lazy_List/assets/96388594/82ceff45-e98b-473f-a819-e890255646f4)# Lazy Lists in Jetpack Compose
+# Lazy Lists in Jetpack Compose
 
 This repository is dedicated to learning and experimenting with lazy lists in Jetpack Compose using Kotlin. The primary focus is on implementing LazyColumn, LazyRow, and LazyGrid within an Android application using Android Studio.
 
